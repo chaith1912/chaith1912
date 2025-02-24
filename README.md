@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Chaithanya. 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/chaith1912/chaith1912/blob/4866732a63d677f67a7799149f022023b780c18d/imagegit.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
