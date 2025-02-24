@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies..
 - 🎓 &nbsp; Pursuing B.E in Artificial Intelligence and Machine Learning.
 - 🌱 &nbsp; Finds Machine learning Interesting...
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
