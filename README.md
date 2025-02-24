@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Chaithanya. <img src="https://github.com/chaith1912/chaith1912/blob/c69c34a68457347303f48eec168ecb0e02297ca6/image1.png" width="25"></h2>
+<h2> Hey there! I'm Chaithanya. 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
