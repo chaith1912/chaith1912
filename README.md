@@ -3,10 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; 
-- 🤔 &nbsp; Exploring new technologies..
+- 🔭 &nbsp; Currently learning Mobile Application Development using Flutter.
+- 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Pursuing B.E in Artificial Intelligence and Machine Learning.
-- 🌱 &nbsp; 
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
