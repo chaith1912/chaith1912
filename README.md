@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning something may be..
+- 🔭 &nbsp; 
 - 🤔 &nbsp; Exploring new technologies..
 - 🎓 &nbsp; Pursuing B.E in Artificial Intelligence and Machine Learning.
-- 🌱 &nbsp; Finds Machine learning Interesting...
+- 🌱 &nbsp; 
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
