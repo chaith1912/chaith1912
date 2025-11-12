@@ -6,7 +6,8 @@
 - 🔭 &nbsp; Currently learning Full Stack Development.
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Pursuing B.E in Artificial Intelligence and Machine Learning.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+- 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
