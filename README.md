@@ -7,9 +7,6 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Pursuing B.E in Artificial Intelligence and Machine Learning.
 
-- 
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
